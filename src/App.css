@@ -590,6 +590,8 @@ h4, h5, p {
     right: 0;
     width: 100%;
     max-width: none;
+    max-height: 50vh;
+    overflow-y: auto;
     border-radius: 0;
     border-left: none;
     border-right: none;
