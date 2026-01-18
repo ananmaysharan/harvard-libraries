@@ -1,0 +1,94 @@
+{
+  "arnold-arboretum-horticultural-library": {
+    "lat": 42.307454359869666,
+    "lng": -71.12094269487362
+  },
+  "baker-library-and-special-collections": {
+    "lat": 42.366422865989676,
+    "lng": -71.12278618034418
+  },
+  "botany-libraries": {
+    "lat": 42.37907980507799,
+    "lng": -71.11459618876313
+  },
+  "cabot-science-library": {
+    "lat": 42.3761633708944,
+    "lng": -71.11631342186061
+  },
+  "countway-library": {
+    "lat": 42.33514262845222,
+    "lng": -71.1036665374139
+  },
+  "ernst-mayr-library": {
+    "lat": 42.3782074,
+    "lng": -71.1154484
+  },
+  "fine-arts-library": {
+    "lat": 42.37636315253701,
+    "lng": -71.11820847251796
+  },
+  "frances-loeb-library": {
+    "lat": 42.37594019309503,
+    "lng": -71.113919129312
+  },
+  "fung-library": {
+    "lat": 42.3756411,
+    "lng": -71.1132366
+  },
+  "gutman-library": {
+    "lat": 42.374918174714196,
+    "lng": -71.12170893520806
+  },
+  "harvard-divinity-school-library": {
+    "lat": 42.38008911981254,
+    "lng": -71.11300965382505
+  },
+  "harvard-law-school-library": {
+    "lat": 42.37795607168886,
+    "lng": -71.11858844069447
+  },
+  "harvard-yenching-library": {
+    "lat": 42.3776750127312,
+    "lng": -71.11372139070966
+  },
+  "hks-library-and-research-services": {
+    "lat": 42.3718,
+    "lng": -71.1219
+  },
+  "houghton-library": {
+    "lat": 42.37319442398305,
+    "lng": -71.11593443300211
+  },
+  "lamont-library": {
+    "lat": 42.37277427166583,
+    "lng": -71.11548329173509
+  },
+  "loeb-music-library": {
+    "lat": 42.376963450880254,
+    "lng": -71.11701740195711
+  },
+  "robbins-library-of-philosophy": {
+    "lat": 42.3738712605585,
+    "lng": -71.11520925425225
+  },
+  "schlesinger-library": {
+    "lat": 42.3757477,
+    "lng": -71.1231267
+  },
+  "science-engineering-complex-library": {
+    "lat": 42.36311817786401,
+    "lng": -71.12635411864967
+  },
+  "tozzer-library": {
+    "lat": 42.378551817436744,
+    "lng": -71.11480535027063
+  },
+  "widener-library": {
+    "lat": 42.37346492404018,
+    "lng": -71.11648712652244
+  },
+  "woodberry-poetry-room": {
+    "lat": 42.37281135116257,
+    "lng": -71.11547148220961
+  }
+}

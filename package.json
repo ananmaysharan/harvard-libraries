@@ -1,0 +1,41 @@
+{
+  "name": "harvard-libraries",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^9.2.2",
+    "@deck.gl/geo-layers": "^9.2.2",
+    "@deck.gl/layers": "^9.2.2",
+    "@deck.gl/mapbox": "^9.2.2",
+    "@deck.gl/react": "^9.2.2",
+    "@loaders.gl/i3s": "^4.3.2",
+    "@loaders.gl/tiles": "^4.3.2",
+    "@math.gl/proj4": "^4.1.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "deck.gl": "^9.2.2",
+    "mapbox-gl": "^3.16.0",
+    "motion": "^12.27.0",
+    "proj4": "^2.20.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.12.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.2.2"
+  }
+}
