@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "update-hours": "node scripts/update-hours.mjs"
   },
   "dependencies": {
     "@deck.gl/core": "^9.2.2",
