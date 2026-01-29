@@ -71,8 +71,8 @@ function parseHoursSessions(hoursString) {
       const open = parseTimeToMinutes(rangeMatch[1]);
       let close = parseTimeToMinutes(rangeMatch[2]);
       if (open !== null && close !== null) {
-        // Handle overnight/midnight: "8am - 12am" means close at end of day
-        if (close <= open) close = 1440;
+        // Handle midnight: "8am - 12am" means close at end of day
+        if (close === 0) close = 1440;
         sessions.push({ open, close });
       }
     }
