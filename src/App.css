@@ -190,7 +190,7 @@ h4, h5, p {
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
-  /* border-top: 1px solid #333; */
+  border-top: 1px solid var(--border-color);
   flex-shrink: 0;
 }
 

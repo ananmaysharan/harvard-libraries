@@ -1,77 +1,77 @@
 {
-  "arnold-arboretum-horticultural-library": {
+  "arnold-arboretum": {
     "lat": 42.307454359869666,
     "lng": -71.12094269487362
   },
-  "baker-library-and-special-collections": {
+  "baker-business": {
     "lat": 42.366422865989676,
     "lng": -71.12278618034418
   },
-  "botany-libraries": {
+  "botany": {
     "lat": 42.37907980507799,
     "lng": -71.11459618876313
   },
-  "cabot-science-library": {
+  "cabot": {
     "lat": 42.3761633708944,
     "lng": -71.11631342186061
   },
-  "countway-library": {
+  "countway-medicine": {
     "lat": 42.33514262845222,
     "lng": -71.1036665374139
   },
-  "ernst-mayr-library": {
+  "ernst-mayr": {
     "lat": 42.3782074,
     "lng": -71.1154484
   },
-  "fine-arts-library": {
+  "fine-arts": {
     "lat": 42.37636315253701,
     "lng": -71.11820847251796
   },
-  "frances-loeb-library": {
+  "loeb-design": {
     "lat": 42.37594019309503,
     "lng": -71.113919129312
   },
-  "fung-library": {
+  "fung": {
     "lat": 42.3756411,
     "lng": -71.1132366
   },
-  "gutman-library": {
+  "gutman": {
     "lat": 42.374918174714196,
     "lng": -71.12170893520806
   },
-  "harvard-divinity-school-library": {
+  "divinity": {
     "lat": 42.38008911981254,
     "lng": -71.11300965382505
   },
-  "harvard-law-school-library": {
+  "law": {
     "lat": 42.37795607168886,
     "lng": -71.11858844069447
   },
-  "harvard-yenching-library": {
+  "yenching": {
     "lat": 42.3776750127312,
     "lng": -71.11372139070966
   },
-  "hks-library-and-research-services": {
+  "kennedy-school": {
     "lat": 42.3718,
     "lng": -71.1219
   },
-  "houghton-library": {
+  "houghton": {
     "lat": 42.37319442398305,
     "lng": -71.11593443300211
   },
-  "lamont-library": {
+  "lamont": {
     "lat": 42.37277427166583,
     "lng": -71.11548329173509
   },
-  "loeb-music-library": {
+  "loeb-music": {
     "lat": 42.376963450880254,
     "lng": -71.11701740195711
   },
-  "robbins-library-of-philosophy": {
+  "robbins-philosophy": {
     "lat": 42.3738712605585,
     "lng": -71.11520925425225
   },
-  "schlesinger-library": {
+  "schlesinger": {
     "lat": 42.3757477,
     "lng": -71.1231267
   },
@@ -79,15 +79,15 @@
     "lat": 42.36311817786401,
     "lng": -71.12635411864967
   },
-  "tozzer-library": {
+  "tozzer": {
     "lat": 42.378551817436744,
     "lng": -71.11480535027063
   },
-  "widener-library": {
+  "widener": {
     "lat": 42.37346492404018,
     "lng": -71.11648712652244
   },
-  "woodberry-poetry-room": {
+  "poetryroom": {
     "lat": 42.37281135116257,
     "lng": -71.11547148220961
   }
