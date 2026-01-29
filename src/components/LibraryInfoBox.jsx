@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { X } from "@phosphor-icons/react";
-import { DAY_COLUMNS, getLibraryStatus } from "./Sidebar";
+import { DAY_COLUMNS, getLibraryStatus } from "./libraryUtils";
 
 const DAY_LABELS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
